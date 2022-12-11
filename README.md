@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abuayman1
 - 👀 I’m interested in blockchain technology 
-- 🌱 I’m currently learning Bitcoin, Javascript and Golan
+- 🌱 I’m currently learning Bitcoin, Javascript and Golang
 - 💞️ I’m looking to collaborate on how to develop an app to help monitor and eradicate neglected tropical diseases 
 - 📫 How to reach me aliyurufai07@gmail.com
 
